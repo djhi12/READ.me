@@ -41,8 +41,8 @@ I believe in creating a **supportive and engaging learning environment** where s
 
 ## 📫 Let’s Connect!
 - 🌐 [Portfolio Website](#) *(Coming Soon)*  
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](#) *(Add your LinkedIn URL)*
+- 📧 Email: [djhi_lds@yahoo.com](mailto:djhi_lds@yahoo.com)
+- 💼 [LinkedIn](#) *(https://ph.linkedin.com/in/djidorot?trk=public_profile_browsemap)*
 
 ---
 
