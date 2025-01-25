@@ -39,10 +39,19 @@ I believe in creating a **supportive and engaging learning environment** where s
 
 ---
 
+## 📚 Projects & Work
+Here are some of the projects I've worked on:
+
+- **[Portfolio Website](#)** *(Coming Soon)*
+- **[WordPress Projects](#)** *(Explore my WordPress development work)*
+- **[Web Development Projects](#)** *(Check out the web apps I've built)*
+- **[Game Design Projects](#)** *(View the Roblox and Unity games I've created)*
+
+---
+
 ## 📫 Let’s Connect!
-- 🌐 [Portfolio Website](#) *(Coming Soon)*  
 - 📧 Email: [djhi_lds@yahoo.com](mailto:djhi_lds@yahoo.com)
-- 💼 [LinkedIn](#) *(https://ph.linkedin.com/in/djidorot?trk=public_profile_browsemap)*
+- 💼 [LinkedIn](https://ph.linkedin.com/in/djidorot?trk=public_profile_browsemap)
 
 ---
 
