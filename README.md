@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Daniel John Idorot
 
-![My Professional Picture](https://drive.google.com/file/d/1B0FWEWFVxgortqdo7Cr_v-baY4KN-O78/view?usp=drive_link)
+![My Professional Picture](https://github.com/djhi12/READ.me/blob/main/my-photo-edited.jpg)
 Welcome to my GitHub profile! I'm a **passionate coding instructor** and **WordPress Developer** committed to fostering creativity and innovation through **technology education**. With a strong foundation in **applied technology** and a dedication to **lifelong learning**, I aim to inspire and empower students at **Code Creators Hub**.
 
 ---
